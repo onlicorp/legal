@@ -11,6 +11,6 @@ vault-sdk/
 
 1 directory, 2 files
 ```
-> Note: the `latest.txt` file must contain the version of the latest document.
+> Note: the `latest.txt` file must contain the version of the latest document and nothing else.
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
