@@ -1,0 +1,1 @@
+*Generally helpful information about all licenses*

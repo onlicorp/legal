@@ -1,0 +1,193 @@
+# Terms & Conditions
+ONLI Vault SDK Agreement
+> Must be included in every distribution of the ONLI Vault SDK.
+
+## Developer Agreement (Terms & Conditions)
+> Developer license is deemed as accepted when the license key is entered for vault initialization.
+
+1. Introduction
+ 
+This Vault SDK Agreement ("Agreement") is entered into by and between The Onli Corporation ("Company") and you, the user of the Vault SDK (“You”, "Developer"). This Agreement governs the terms and conditions under which the Developer may use the Vault SDK, including any associated documentation, software libraries, and APIs provided by the Company.
+ 
+Acknowledgment. By clicking the "Agree" button, downloading or using the Vault SDK, You are agreeing to be bound by the terms and conditions of this Agreement. If You do not agree to the terms of this Agreement, do not click on the "Agree" button, do not download or do not use the Vault SDK. This Agreement is a legal document between You and the Company and it governs your use of the Application made available to You by the Company. The Application is licensed, not sold, to You by the Company for use strictly in accordance with the terms of this Agreement.
+ 
+2. Definitions
+ 
+2.1 "Vault SDK" refers to the software development kit provided by the Company, which includes software libraries, tools, sample code, and documentation to enable developers to integrate with the ONLI Vault.
+ 
+2.2 "ONLI Vault" refers to the self-contained execution environment that is part of OnliOne, containing Genomes (assets) and Genes (owner identity) for the purpose of actual possession storage of assets.
+ 
+2.3 "OnliOne" refers to the private computing network of Onli’s Hyper-dimensional Vector Storage Systems containing Vaults and owners thereof used for uniqueness quantification across a network of connected devices.
+ 
+2.4 "Genomes" refers to Onli’s hyperdimensional vector storage objects that are part of Vaults, typically containing a data structure of 10 “Helices” used to store data segments related to the various facets of the object's dimensions.
+ 
+2.5 "Genes" refers to special Genomes that represent the asset owner’s digital identity, and containing agents for security identity authentication and authorization.
+ 
+2.6 "ONLI ID" refers to a unique identifier required for the creation and operation of a Vault within the ONLI system.
+ 
+3. License Grant
+ 
+3.1 License: Subject to the terms and conditions of this Agreement, the Company hereby grants the Developer a non-exclusive, non-transferable, revocable license to use the Vault SDK solely for the purpose of developing, testing, and distributing applications that interact with the ONLI Vault and solely in association with a valid existing license or access agreement to ONLI system software (the “Master License Agreement”) between Company and licensing organization (the “Licensee Organization”).
+ 
+4. Developer Obligations
+ 
+4.1 Compliance: The Developer agrees to comply with all applicable laws and regulations in connection with the use of the Vault SDK, as well as the ONLI Acceptable Use Policy located at ONLI Acceptable Use Policy.
+ 
+4.2 Restrictions: The Developer shall not:
+(a) Reverse engineer, decompile, or disassemble, or otherwise attempting to derive or gain access to, the Vault SDK source code.
+(b) Use the Vault SDK to create software that is competitive with the ONLI Vault.
+(c) Distribute, sublicense, or otherwise transfer the Vault SDK to any third party.
+(d) Circumvent software copyright management or security features.
+ 
+4.3 Security: The Developer shall implement reasonable security measures to protect the integrity and security of the ONLI Vault and any data processed through it. The Developer shall not permit any person, system, or user to utilize the Vault SDK other than the Developer.
+ 
+5. Data Privacy and Security
+ 
+5.1 Data Responsibility: DEVELOPER ACKNOWLEDGES, UNDERSTANDS AND AGREES THAT, BECAUSE THE ONLI VAULT OPERATES UNDER AN ACTUAL POSSESSION SYSTEM, THE OWNER IS SOLELY RESPONSIBLE FOR KEEPING THEIR DATA SAFE. THE COMPANY HAS NO WAY TO ACCESS OR REPLACE LOST GENOMES, AS IT DOES NOT HAVE ACCESS TO THE DATA STORED IN THE VAULT, AND COMPANY IS THEREFORE NOT RESPONSIBLE IN ANY WAY FOR LOST ASSETS.
+ 
+5.2 Data Collection: The Developer shall be responsible for obtaining any necessary consents from end-users for the collection, use, and disclosure of their data, personal information, or private information in connection with the Developer's applications.
+ 
+5.3 Data Storage: All Genomes must be stored within the ONLI Vault in accordance with the Company's data storage policies and procedures. Because it is a system based on actual possession, there are no backups of the Vault, and it cannot be backed up.
+ 
+5.4 Access Restrictions: Developer understands and agrees that Developer will have no access to Genomes or Genes stored in the Vault. Only the owner, who possesses the appropriate ONLI ID, has access to their data within the Vault.
+ 
+6. Intellectual Property and Confidentiality
+ 
+6.1 Ownership: The Company retains all rights, title, and interest in and to the Vault SDK and the ONLI system, including without limitation all intellectual property rights therein. No rights are granted to the Developer other than as expressly set forth herein.
+ 
+6.2 Feedback: Any feedback provided by the Developer to the Company regarding the Vault SDK may be used by the Company without restriction or obligation. Developer hereby assigns all right, title, and interest to any feedback, improvements, inventions, modifications, and designs related to the Vault SDK.
+ 
+6.3 Confidentiality: As used herein, “Confidential Information” shall mean the Vault SDK, documentation therefore, and any written or oral information about the Vault SDK or the Onli System provided by Company to Developer, including without limitation know-how, processes, algorithms, software programs, documents, and formulae related to the current, future, and proposed development of the ONLI System. Developer agrees that at all times and notwithstanding any termination or expiration of this Agreement it will hold in strict confidence and not disclose to any third party any Confidential Information except as approved in writing in advance by Company, and will use the Confidential Information for no purpose other than user of the Vault SDK. Recipient shall only permit access to Confidential Information to those of its employees or authorized representatives of the Licensing Organization having a need to know and who have signed confidentiality agreements or are otherwise bound by confidentiality obligations at least as restrictive as those contained herein.
+ 
+7. Term and Termination
+ 
+7.1 Term: This Agreement shall commence upon the Developer's acceptance and shall continue until terminated as set forth herein.
+ 
+7.2 Termination: The Company may terminate this Agreement at any time with or without cause upon written notice to the Developer. The Developer may terminate this Agreement by ceasing all use of the Vault SDK and destroying all copies in their possession. This Agreement shall automatically terminate upon the termination of the license or access agreement of the Licensing Organization under which or with which Developer is working.
+ 
+7.3 Effect of Termination: Upon termination, the Developer shall immediately cease all use of the Vault SDK and destroy all copies thereof.
+ 
+8. Disclaimer of Warranties
+ 
+The Vault SDK is provided "AS IS" and “AS AVAILABLE” without warranty of any kind. The Company disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+ 
+9. Limitation of Liability
+ 
+IN NO EVENT SHALL THE COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM THE DEVELOPER'S ACCESS TO OR USE OF THE VAULT SDK.
+ 
+10. Indemnification
+ 
+The Developer agrees to indemnify and hold harmless the Company and its affiliates from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable legal and accounting fees, arising out of or in any way connected with the Developer's use of the Vault SDK, including without limitation violation of any law or regulation.
+ 
+11. General Provisions
+ 
+11.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of Delaware, without regard to choice of law provisions.
+ 
+11.2 Entire Agreement: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, agreements, and representations, whether oral or written.
+ 
+11.3 Non-Assignment: This agreement is not assignable by Developer, and any purported assignment of this Agreement shall be null and void.
+ 
+11.4 Amendments: The Company reserves the right to modify this Agreement at any time, which updates may be posted and agreed to on a click-through basis within the Vault SDK, or upon email notice to Developer, at the option of the Company. Developer understands and agrees that is Developer’s responsibility to review the terms of this Agreement upon logging in and utilizing the Vault SDK and to provide any updated email addresses to Company. The Developer's continued use of the Vault SDK following any such modifications shall constitute acceptance of the amended Agreement.
+ 
+11.5 Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+ 
+11.6 Notices: Any notice required or permitted by this Agreement shall be in writing and shall be deemed sufficient (i) if such notice is for Developer, upon sending to the last provided email address by Developer to Company, and (ii) if to Company, upon receipt at the below email address.
+ 
+Contact Information
+ 
+For any questions or concerns regarding this Agreement, or any notes, please contact the Company at:
+ 
+The Onli Corporation
+4850 Tamiami Trail N, Unit 301
+Naples, FL 34103
+United States
+Email: legal@theonlicorporation.com
+
+## End User License
+> End User license must be displayed to end user and accepted by said end user with input of license key and acceptance event.
+
+OnliYou Vault End User Terms and Conditions
+
+1. Introduction
+This ONLI Vault SDK Agreement ("Agreement") is entered into by and between [Your Company Name], ("Company") and the user of the ONLI Vault SDK ("Developer"). This Agreement governs the terms and conditions under which the Developer may use the ONLI Vault SDK, including any associated documentation, software libraries, and APIs provided by the Company.
+
+2. Definitions
+2.1 "ONLI Vault SDK" refers to the software development kit provided by the Company, which includes software libraries, tools, sample code, and documentation to enable developers to integrate with the ONLI Vault.
+
+2.2 "ONLI Vault" refers to the self-contained execution environment that is part of OnliOne, containing Genomes (Assets) and Genes (Owner Identity) for the purpose of actual possession storage of Assets.
+
+2.3 "OnliOne" refers to the private computing network of Hyper-dimensional Vector Storage Systems containing Vaults and Owners used for uniqueness quantification across a network of connected devices.
+
+2.4 "Genomes" refers to hyperdimensional vector storage objects that are part of Vaults, containing 10 Helices used to store data segments related to the various facets of the object's dimensions.
+
+2.5 "Genes" refers to special Genomes that represent the owner/user’s digital identity, containing agents for security identity authentication and authorization.
+
+2.6 "ONLI ID" refers to a unique identifier required for the creation and operation of a Vault within the ONLI system.
+
+3. License Grant
+3.1 License: Subject to the terms and conditions of this Agreement, the Company hereby grants the Developer a non-exclusive, non-transferable, revocable license to use the ONLI Vault SDK solely for the purpose of developing, testing, and distributing applications that interact with the ONLI Vault.
+
+4. Developer Obligations
+4.1 Compliance: The Developer agrees to comply with all applicable laws and regulations in connection with the use of the ONLI Vault SDK, as well as the ONLI Acceptable Use Policy located at ONLI Acceptable Use Policy.
+
+4.2 Restrictions: The Developer shall not:
+(a) Reverse engineer, decompile, or disassemble the ONLI Vault SDK.
+(b) Use the ONLI Vault SDK to create software that is competitive with the ONLI Vault.
+(c) Distribute, sublicense, or otherwise transfer the ONLI Vault SDK to any third party.
+
+4.3 Security: The Developer must implement reasonable security measures to protect the integrity and security of the ONLI Vault and any data processed through it.
+
+5. Trusted Execution Environment
+5.1 You acknowledge that the OnliYou Vault operates within a trusted execution environment. 
+
+5.2 We guarantee that no attempts will be made to alter this environment or the execution of operations within it. 
+
+5.3 You understand that this environment ensures the integrity and security of your asset transactions and storage.
+
+6. Intellectual Property
+6.1 Ownership: The Company retains all rights, title, and interest in and to the ONLI Vault SDK, including all intellectual property rights therein. No rights are granted to the Developer other than as expressly set forth herein.
+
+6.2 Feedback: Any feedback provided by the Developer to the Company regarding the ONLI Vault SDK may be used by the Company without restriction or obligation.
+
+7. Term and Termination
+7.1 Term: This Agreement shall commence upon the Developer's acceptance and shall continue until terminated as set forth herein.
+
+7.2 Termination: The Company may terminate this Agreement at any time with or without cause upon written notice to the Developer. The Developer may terminate this Agreement by ceasing all use of the ONLI Vault SDK and destroying all copies in their possession.
+
+7.3 Effect of Termination: Upon termination, the Developer shall immediately cease all use of the ONLI Vault SDK and destroy all copies thereof.
+
+8. Disclaimer of Warranties
+The ONLI Vault SDK is provided "AS IS" without warranty of any kind. The Company disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+9. Limitation of Liability
+In no event shall the Company be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from the Developer's access to or use of the ONLI Vault SDK.
+
+10. Indemnification
+The Developer agrees to indemnify and hold harmless the Company and its affiliates from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable legal and accounting fees, arising out of or in any way connected with the Developer's use of the ONLI Vault SDK.
+
+11. General Provisions
+11.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+
+11.2 Entire Agreement: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, agreements, and representations, whether oral or written.
+
+11.3 Amendments: The Company reserves the right to modify this Agreement at any time. The Developer's continued use of the ONLI Vault SDK following any such modifications shall constitute acceptance of the amended Agreement.
+
+11.4 Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+12. Acknowledgment
+By using the OnliYou Vault, you acknowledge that you have read, understood, and agree to be bound by these terms and the Acceptable Use Policy. You specifically acknowledge your understanding of:
+- The Actual Possession model
+- Your sole responsibility for asset security
+- The nature of ownership proof in the Onli system
+- The trusted execution environment and our commitment not to alter it
+
+Contact Information
+
+For any questions or concerns regarding this Agreement, please contact the Company at:
+
+The Onli Corporation
+4850 Tamiami Trail N, Unit 301
+Naples, FL 34103
+United States
+Email: legal@theonlicorporation.com
+
